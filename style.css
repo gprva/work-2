@@ -41,6 +41,39 @@ width: 341px;
 
 .fin_txt{
     width: 1330px;
-padding: 0px 391px;
+padding: 0px 161px;
 text-align: center;
 }
+.fin_txt_tit{
+    color: #283337;
+text-align: center;
+font-size: 60px;
+font-style: normal;
+margin-bottom: 48px;
+line-height: 60px; /* 100% */
+letter-spacing: 1px;
+}
+.fin_txt_p{
+    margin-bottom: 48px;
+    color: #283337;
+text-align: center;
+font-size: 33px;
+font-weight: 400;
+line-height: 36px; 
+}
+.end_btn{
+    border: 1px solid #FF7400;
+    transition: 0.5s;
+    color: #f3eeee;
+    background: #FF7400;
+    text-align: center;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+    padding: 14px 67px;
+}
+.end_btn:hover {
+    background: #373736;
+    color: #fff;
+    border: 2px solid #373736;
+} 
